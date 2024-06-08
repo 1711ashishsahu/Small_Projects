@@ -5,7 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    background: #222;
+    /* background: #222; */
+    background-image: url(images/pexels-ithalu-907485.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .card{
     width: 90%;
